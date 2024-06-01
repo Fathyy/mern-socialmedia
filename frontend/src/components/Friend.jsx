@@ -14,6 +14,11 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
   const friends = useSelector((state) => state.user.friends);
 
   // random comment to be deleted later
+  // random comment to be deleted later
+  // random comment to be deleted later
+  // random comment to be deleted later
+  // random comment to be deleted later
+
   const { palette } = useTheme();
   const primaryLight = palette.primary.light;
   const primaryDark = palette.primary.dark;
